@@ -1,0 +1,12 @@
+.sampul {
+  width: 100px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
